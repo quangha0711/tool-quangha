@@ -1,0 +1,12 @@
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\bin\Debug\MissFortune.exe.config
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\bin\Debug\MissFortune.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\bin\Debug\MissFortune.pdb
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\bin\Debug\EloBuddy.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\bin\Debug\EloBuddy.SDK.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\bin\Debug\SharpDX.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\obj\Debug\Dr MissFotune.csprojResolveAssemblyReference.cache
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\obj\Debug\MissFortune.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Doctor MissFotune\obj\Debug\MissFortune.pdb
