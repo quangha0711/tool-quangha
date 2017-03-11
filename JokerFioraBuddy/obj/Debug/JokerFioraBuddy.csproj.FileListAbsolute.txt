@@ -1,0 +1,27 @@
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\bin\Release\Joker Fiora.exe.config
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\obj\Debug\JokerFioraBuddy.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\bin\Release\Joker Fiora.exe
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\bin\Release\Joker Fiora.pdb
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\bin\Release\EloBuddy.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\bin\Release\EloBuddy.SDK.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\bin\Release\SharpDX.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\obj\Debug\JokerFioraBuddy.Properties.Resources.resources
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\obj\Debug\Joker Fiora.exe
+C:\Users\Admin\Desktop\JokerFioraBuddy\JokerFioraBuddy\JokerFioraBuddy\obj\Debug\Joker Fiora.pdb
+C:\Users\Admin\Desktop\JokerFioraBuddy\bin\Release\Joker Fiora.exe.config
+C:\Users\Admin\Desktop\JokerFioraBuddy\obj\Debug\Joker Fiora.exe
+C:\Users\Admin\Desktop\JokerFioraBuddy\obj\Debug\Joker Fiora.pdb
+C:\Users\Admin\Desktop\JokerFioraBuddy\bin\Release\Joker Fiora.exe
+C:\Users\Admin\Desktop\JokerFioraBuddy\bin\Release\Joker Fiora.pdb
+C:\Users\Admin\Desktop\JokerFioraBuddy\bin\Release\EloBuddy.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\bin\Release\EloBuddy.SDK.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\bin\Release\SharpDX.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\Admin\Desktop\JokerFioraBuddy\obj\Debug\JokerFioraBuddy.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\JokerFioraBuddy\obj\Debug\JokerFioraBuddy.Properties.Resources.resources
+C:\Users\Admin\Desktop\JokerFioraBuddy\obj\Debug\JokerFioraBuddy.csproj.GenerateResource.Cache
