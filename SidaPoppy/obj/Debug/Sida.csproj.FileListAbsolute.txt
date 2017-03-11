@@ -1,0 +1,29 @@
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\Lucky4Poppy\bin\Debug\Sida.exe.config
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\Lucky4Poppy\bin\Debug\Sida.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\Lucky4Poppy\bin\Debug\Sida.pdb
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\Lucky4Poppy\obj\Debug\Sida.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\Lucky4Poppy\obj\Debug\Sida.pdb
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\SidaPoppy\bin\Debug\Sida.exe.config
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\SidaPoppy\obj\Debug\Sida.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\SidaPoppy\obj\Debug\Sida.pdb
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\SidaPoppy\bin\Debug\Sida.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\SidaPoppy\bin\Debug\Sida.pdb
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\Lucky4Poppy\SidaPoppy\obj\Debug\Sida.csprojResolveAssemblyReference.cache
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\SidaPoppy\SidaPoppy\bin\Debug\Sida.exe.config
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\SidaPoppy\SidaPoppy\obj\Debug\Sida.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\SidaPoppy\SidaPoppy\obj\Debug\Sida.pdb
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\SidaPoppy\SidaPoppy\bin\Debug\Sida.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\SidaPoppy\SidaPoppy\bin\Debug\Sida.pdb
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\SidaPoppy\SidaPoppy\obj\Debug\Sida.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\bin\Debug\Sida.exe.config
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\obj\Debug\Sida.exe
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\obj\Debug\Sida.pdb
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\bin\Debug\Sida.exe
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\bin\Debug\Sida.pdb
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\bin\Debug\EloBuddy.dll
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\bin\Debug\SharpDX.dll
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Admin\Desktop\Addons\SidaPoppy\SidaPoppy\obj\Debug\Sida.csprojResolveAssemblyReference.cache
