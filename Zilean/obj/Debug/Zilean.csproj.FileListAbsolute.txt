@@ -1,0 +1,26 @@
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\Zilean.exe.config
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\Zilean.exe
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\Zilean.pdb
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\EloBuddy.dll
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\EloBuddy.Sandbox.dll
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\EloBuddy.SDK.dll
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\Newtonsoft.Json.dll
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\SharpDX.dll
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\bin\Debug\SharpDX.XInput.dll
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\obj\Debug\Zilean.csprojResolveAssemblyReference.cache
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\obj\Debug\Zilean.exe
+c:\users\keven\documents\visual studio 2015\Projects\Zilean\Zilean\obj\Debug\Zilean.pdb
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\Zilean.exe.config
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\obj\Debug\Zilean.exe
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\obj\Debug\Zilean.pdb
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\Zilean.exe
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\Zilean.pdb
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\EloBuddy.dll
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\EloBuddy.SDK.dll
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\SharpDX.dll
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\bin\Debug\SharpDX.XInput.dll
+C:\Users\PC-3-PIA\Desktop\sam\Zilean\Zilean\obj\Debug\Zilean.csprojResolveAssemblyReference.cache
