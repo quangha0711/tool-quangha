@@ -1,0 +1,11 @@
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\bin\Debug\MaddeningJinx.exe.config
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\bin\Debug\MaddeningJinx.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\bin\Debug\MaddeningJinx.pdb
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\bin\Debug\EloBuddy.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\bin\Debug\EloBuddy.SDK.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\bin\Debug\SharpDX.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\obj\Debug\MaddeningJinx.exe
+C:\Users\KEVEN\Documents\Visual Studio 2015\Projects\MaddeningJinx\MaddeningJinx\obj\Debug\MaddeningJinx.pdb
